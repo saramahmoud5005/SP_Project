@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Owner\source\repos\SP_Project\SP_Project\Source.cpp(177,20): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Owner\source\repos\SP_Project\SP_Project\Source.cpp(402,19): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Owner\source\repos\SP_Project\SP_Project\Source.cpp(470): warning C4715: 'checkPackageAndBalance': not all control paths return a value
+  SP_Project.vcxproj -> C:\Users\Owner\source\repos\SP_Project\Debug\SP_Project.exe
